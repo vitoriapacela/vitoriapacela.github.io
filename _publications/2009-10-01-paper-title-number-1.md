@@ -1,7 +1,7 @@
 ---
 title: "Calorimetry with deep learning: particle simulation and reconstruction for collider physics"
 collection: publications
-permalink: /publication/epjc2020
+permalink: /publication/2009-10-01-paper-title-number-1.md
 date: 2020
 venue: 'The European Physical Journal C'
 paperurl: 'https://link.springer.com/content/pdf/10.1140/epjc/s10052-020-8251-9.pdf'
