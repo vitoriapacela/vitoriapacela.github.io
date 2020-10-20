@@ -14,3 +14,7 @@ I am a master's student in data science at the University of Helsinki supervised
 News
 ======
 -->
+
+Contact
+======
+vitoria.barinpacela at helsinki.fi 
