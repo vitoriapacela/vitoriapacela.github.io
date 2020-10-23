@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV - Vitória Barin Pacela"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -50,3 +50,6 @@ Work/Research experience
   * University of Helsinki - Department of Physics
   * Molecular dynamics simulations for studying the mechanical properties of nanowires
   * Supervisors: Professor [Kai Nordlund](http://www.acclab.helsinki.fi/~knordlun/), Dr. [Antti Kuronen](http://www.acclab.helsinki.fi/~aakurone/), Dr. Andrey Ilinov
+  
+[Publications](https://vitoriapacela.github.io/publications/)
+======
