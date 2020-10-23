@@ -39,12 +39,12 @@ Work/Research experience
 * Summer 2017: Undergraduate Research Fellow
   * California Institute of Technology (Caltech) - Summer Undergraduate Research Fellowship (SURF)
   * Energy estimation with deep convolutional neural networks for the Linear Collider Detector calorimeter
-  * Supervisor: Professor [Maria Spiropulu](http://hep.caltech.edu/~smaria/), Dr. [Jean-Roch Vlimant](https://inspirehep.net/authors/1023557), Dr. [Maurizio Pierini](https://inspirehep.net/authors/1021028)  
+  * Supervisors: Professor [Maria Spiropulu](http://hep.caltech.edu/~smaria/), Dr. [Jean-Roch Vlimant](https://inspirehep.net/authors/1023557), Dr. [Maurizio Pierini](https://inspirehep.net/authors/1021028)  
   
 * Summer 2016: Undergraduate Research Fellow
   * California Institute of Technology (Caltech) - Summer Undergraduate Research Fellowship (SURF)
   * Mid-infrared band structure characterization of double-gyroid photonic crystals
-  * Supervisor: Professor [Harry Atwater](https://daedalus.caltech.edu/team-member/harry-atwater/), Dr. [Siying Peng](https://glam.stanford.edu/people/siying-peng)
+  * Supervisors: Professor [Harry Atwater](https://daedalus.caltech.edu/team-member/harry-atwater/), Dr. [Siying Peng](https://glam.stanford.edu/people/siying-peng)
   
 * Spring 2016 - Spring 2017: Research Assistant
   * University of Helsinki - Department of Physics
