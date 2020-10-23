@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV - Vitória Barin Pacela"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,7 +22,7 @@ Work/Research experience
 
 * Summer 2019: Research Intern
   * Mila - Université de Montreal
-  * Visualizing the Impacts of Climate Change
+  * Visualizing the Impacts of Climate Change with machine learning
   * Supervisor: Professor [Yoshua Bengio](https://yoshuabengio.org/)
   
 * Summer 2018: Intern
