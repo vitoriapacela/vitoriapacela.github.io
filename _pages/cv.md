@@ -23,7 +23,7 @@ Work/Research experience
 * Summer 2019: Research Intern
   * Mila - Université de Montreal
   * Visualizing the Impacts of Climate Change with machine learning
-  * Supervisor: Professor [Yoshua Bengio](https://yoshuabengio.org/)
+  * Supervisor: Professor [Yoshua Bengio](https://yoshuabengio.org/), Karthik Mukkavilli, Sasha Luccioni
   
 * Summer 2018: Intern
   * CERN - Openlab
