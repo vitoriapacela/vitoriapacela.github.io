@@ -25,4 +25,4 @@ vitoria.barinpacela at helsinki.fi
 
 Personal
 ======
-I am from Brazil and I used to participate in many science olympiads. In particular, the [Brazilian Mathematics Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/) has had a big impact in my life and career. I am inspired about the social inclusion implications of projects such as OBMEP by disseminating scientific and mathematical knowledge.
+I am from Brazil, where I used to participate in national science olympiads in various fields. In particular, the [Brazilian Mathematics Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/) has had a big impact in my life and career. I am inspired about the social inclusion implications of projects such as OBMEP by disseminating scientific and mathematical knowledge.
