@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in data science at the University of Helsinki supervised by Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/) and Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/).
+I have master's degree in data science from the University of Helsinki, where I was supervised by Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/) and Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/).
 
 I am broadly interested in unsupervised learning, causal inference and discovery, independent component analysis, deep neural networks, and their applications on the natural sciences. 
 
