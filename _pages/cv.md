@@ -11,13 +11,13 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, University of Helsinki, 2019
-* M.S. in Data Science, University of Helsinki, Expected: May 2021
+* M.S. in Data Science, University of Helsinki, 2021
 
 Work/Research experience
 ======
-* Spring 2020 - currently: Research Assistant
+* Spring 2020 - Spring 2021: Research Assistant
   * University of Helsinki, Department of Computer Science
-  * VAEs, ICA, causal discovery
+  * Independent Component Analysis for binary data employing variational autoencoders
   * Supervisors: Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/), Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/)
 
 * Summer 2019: Research Intern
