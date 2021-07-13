@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of Helsinki, 2019
 * M.S. in Data Science, University of Helsinki, 2021
+* B.S. in Computer Science, University of Helsinki, 2019
 
 Work/Research experience
 ======
