@@ -9,9 +9,9 @@ redirect_from:
 ---
 I am a first-year Ph.D. student at [Mila](https://mila.quebec/en/)/Université de Montréal supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). 
 
-I have a master's degree in data science from the University of Helsinki, where I was supervised by Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/) and Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/).
+I have a master's degree in data science from the University of Helsinki, where I was supervised by Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/) and Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/), working on independent component analysis for binary data ([thesis](https://helda.helsinki.fi/handle/10138/332599)).
 
-I am broadly interested in unsupervised learning, causal inference and discovery, independent component analysis, deep neural networks, and their applications on the natural sciences. 
+I am broadly interested in unsupervised learning, causal inference and discovery, ICA, deep neural networks, and their applications on the natural sciences. 
 
 During my bachelor's degree, I worked mostly on machine learning for particle physics and spent a couple of summers at CERN in Professor Maria Spiropulu's group and Dr. Maurizio Pierini's group.
 
@@ -22,7 +22,9 @@ News
 
 Contact
 ======
-vitoria.barinpacela at helsinki.fi 
+<!-- vitoria.barinpacela at helsinki.fi  -->
+vitoria.barin.pacela@umontreal.ca
+
 <!-- 
 Personal
 ======
