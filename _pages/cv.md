@@ -10,7 +10,11 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Computer Science, Université de Montréal/Mila, 2021 - present
+  * Supervisor: Simon Lacoste-Julien 
 * M.S. in Data Science, University of Helsinki, 2021
+  * Supervisors: Aapo Hyvärinen and Antti Hyttinen
+  * [Thesis: Independent Component Analysis for Binary Data](https://helda.helsinki.fi/handle/10138/332599)
 * B.S. in Computer Science, University of Helsinki, 2019
 
 Work/Research experience
