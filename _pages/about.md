@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a first-year Ph.D. student at [Mila](https://mila.quebec/en/)/Université de Montréal supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). 
 
-I have master's degree in data science from the University of Helsinki, where I was supervised by Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/) and Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/).
+I have a master's degree in data science from the University of Helsinki, where I was supervised by Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/) and Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/).
 
 I am broadly interested in unsupervised learning, causal inference and discovery, independent component analysis, deep neural networks, and their applications on the natural sciences. 
 
@@ -22,7 +23,7 @@ News
 Contact
 ======
 vitoria.barinpacela at helsinki.fi 
-
+<!-- 
 Personal
 ======
-I am from Brazil, where I used to participate in national science olympiads in various fields. In particular, the [Brazilian Mathematics Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/) has had a big impact in my life and career. I am inspired about the social inclusion implications of projects such as OBMEP by disseminating scientific and mathematical knowledge.
+I am from Brazil, where I used to participate in national science olympiads in various fields. In particular, the [Brazilian Mathematics Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/) has had a big impact in my life and career. I am inspired about the social inclusion implications of projects such as OBMEP by disseminating scientific and mathematical knowledge. -->
