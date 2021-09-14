@@ -23,7 +23,8 @@ News
 Contact
 ======
 <!-- vitoria.barinpacela at helsinki.fi  -->
-vitoria.barin.pacela@umontreal.ca
+<!-- vitoria.barin.pacela@umontreal.ca -->
+vitoria.barin-pacela@mila.quebec
 
 <!-- 
 Personal
