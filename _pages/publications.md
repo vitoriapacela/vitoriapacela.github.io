@@ -4,9 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Test
+## 2022
 
-Test 2
+A. Hyttinen, <u>V. Barin-Pacela</u>, A. Hyvärinen. **Binary Independent Component Analysis via Non-stationarity**. <i>38th Conference on Uncertainty in Artificial Intelligence (UAI)</i>. 2022. [ArXiv](https://arxiv.org/abs/2111.15431).
+
+___
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
