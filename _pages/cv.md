@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Université de Montréal/Mila, 2021 - present
+* Ph.D. in Computer Science, Mila/Université de Montréal, 2021 - present
   * Supervisor: Simon Lacoste-Julien 
 * M.S. in Data Science, University of Helsinki, 2021
   * Supervisors: Aapo Hyvärinen and Antti Hyttinen
