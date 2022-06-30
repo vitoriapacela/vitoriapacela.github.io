@@ -13,7 +13,7 @@ I am broadly interested in unsupervised learning, causal inference and discovery
 
 I have a master's degree in data science from the University of Helsinki, where I was supervised by Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/) and Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/), working on independent component analysis for binary data ([thesis](https://helda.helsinki.fi/handle/10138/332599)).
 
-I grew up in Brazil and moved to Finland to do my bachelor's degree in computer science at the University of Helsinki. During my bachelor's degree, I worked mostly on machine learning for particle physics and spent a couple of summers at CERN in Professor Maria Spiropulu's group and Dr. Maurizio Pierini's group.
+I grew up in Brazil and moved to Finland to do my bachelor's in computer science at the University of Helsinki. During my bachelor's degree, I worked mostly on machine learning for particle physics and spent a couple of summers at CERN in Professor Maria Spiropulu's group and Dr. Maurizio Pierini's group.
 
 <!--
 News
