@@ -28,9 +28,9 @@ vitoria.barin-pacela at mila.quebec
 
 ___ 
 
-Welcome to reach out if you have questions about doing a PhD at Mila, studying in Finland or Canada, pursuing a research career, and applying for a PhD.
+<sub>Welcome to reach out if you have questions about doing a PhD at Mila, studying in Finland or Canada, pursuing a research career, and applying for a PhD.</sub>
 
-Estou aberta a compartilhar um pouco sobre a minha trajetória e responder dúvidas sobre o doutorado no Mila, estudos na Finlândia ou no Canadá, carreira acadêmica, e aplicações para um doutorado fora do Brasil.
+<sub>Estou aberta a compartilhar um pouco sobre a minha trajetória e responder dúvidas sobre o doutorado no Mila, estudos na Finlândia ou no Canadá, carreira acadêmica, e aplicações para um doutorado fora do Brasil.</sub>
 
 <!-- 
 Personal
