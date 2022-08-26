@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## 2022
 
-A. Hyttinen, <u>V. Barin-Pacela</u>, A. Hyvärinen. **Binary Independent Component Analysis: A Non-stationarity-based Approach**. <i>38th Conference on Uncertainty in Artificial Intelligence (UAI)</i>. 2022. [ArXiv](https://arxiv.org/abs/2111.15431).
+A. Hyttinen, <u>V. Barin-Pacela</u>, A. Hyvärinen. **Binary Independent Component Analysis: A Non-stationarity-based Approach**. <i>38th Conference on Uncertainty in Artificial Intelligence (UAI)</i>. 2022. [Paper](https://proceedings.mlr.press/v180/hyttinen22a.html).
 
 ___
 
