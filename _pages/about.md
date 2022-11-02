@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Ph.D. student at [Mila](https://mila.quebec/en/) and the Université de Montréal, supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). 
+I am a student at [Mila](https://mila.quebec/en/) and the Université de Montréal, supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). 
 
 I am broadly interested in unsupervised learning, causal inference and discovery, ICA, deep neural networks, and their applications on the natural sciences. 
 
