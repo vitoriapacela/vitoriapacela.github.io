@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a student at [Mila](https://mila.quebec/en/) and the Université de Montréal, supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). 
+I am a student at [Mila](https://mila.quebec/en/) and the Université de Montréal, supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). I'm also working with Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/) and Dr. [Diane Bouchacourt](https://ai.facebook.com/people/diane-bouchacourt) on representation learning at Meta AI Montreal as a research intern.
 
 I am broadly interested in unsupervised learning, causal inference and discovery, ICA, deep neural networks, and their applications on the natural sciences. 
 
