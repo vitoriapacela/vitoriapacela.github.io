@@ -11,14 +11,18 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, Mila/Université de Montréal, 2021 - present
-  * Supervisor: Simon Lacoste-Julien 
+  * Supervisor: Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/) 
 * M.S. in Data Science, University of Helsinki, 2021
-  * Supervisors: Aapo Hyvärinen and Antti Hyttinen
+  * Supervisors: Professor Aapo Hyvärinen and Dr. Antti Hyttinen
   * [Thesis: Independent Component Analysis for Binary Data](https://helda.helsinki.fi/handle/10138/332599)
 * B.S. in Computer Science, University of Helsinki, 2019
 
 Work/Research experience
 ======
+* Fall 2022 - present: Research Intern
+  * Meta AI Montreal -- Fundamental AI Research (FAIR)
+  * Supervisors: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/), Dr. [Diane Bouchacourt](https://ai.facebook.com/people/diane-bouchacourt)
+
 * Spring 2020 - Spring 2021: Research Assistant
   * University of Helsinki, Department of Computer Science
   * Independent Component Analysis for binary data employing variational autoencoders
