@@ -19,7 +19,7 @@ Education
 
 Work/Research experience
 ======
-* Fall 2022 - present: Research Intern
+* Fall 2022 - present: Visiting Researcher
   * Meta AI Montreal -- Fundamental AI Research (FAIR)
   * Supervisors: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/), Dr. [Diane Bouchacourt](https://ai.facebook.com/people/diane-bouchacourt)
 
