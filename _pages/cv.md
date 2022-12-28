@@ -19,16 +19,16 @@ Education
 
 Work/Research experience
 ======
-* Fall 2022 - present: Visiting Researcher at **Meta AI Montreal**
+* **Fall 2022 - present:** Visiting Researcher at **Meta AI Montreal**
   * Fundamental AI Research (FAIR)
   * Supervisors: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/), Dr. [Diane Bouchacourt](https://ai.facebook.com/people/diane-bouchacourt)
 
-* Spring 2020 - Spring 2021: Research Assistant at **University of Helsinki**
+* **Spring 2020 - Spring 2021:** Research Assistant at **University of Helsinki**
   * Department of Computer Science
   * Independent Component Analysis for binary data employing variational autoencoders
   * Supervisors: Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/), Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/)
 
-* Summer 2019: Research Intern at **[Mila](https://mila.quebec/en/)** -- Université de Montreal
+* **Summer 2019:** Research Intern at **[Mila](https://mila.quebec/en/)** -- Université de Montreal
   * Visualizing the Impacts of Climate Change with machine learning
   * Supervisor: Professor [Yoshua Bengio](https://yoshuabengio.org/)
   
