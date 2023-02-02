@@ -5,7 +5,12 @@ author_profile: true
 ---
 {% include base_path %}
 
-Poster presentations
+Talks
+=====
+* Instituto de Matemática Pura e Aplicada (IMPA), Seminário Centro Pi: "Análise de Componentes Independentes para Dados Binários". January 2023, Rio de Janeiro, Brazil. [Video](https://www.youtube.com/watch?v=L4PvFaKs_eE&list=PLo4jXE-LdDTQ0Ujvto1jy-XjOKW4Ozs2h)
+* FGV EMAp – Escola de Matemática Aplicada. Seminar: "Análise de Componentes Independentes para Dados Binários". January 2023, Rio de Janeiro, Brazil.
+
+Poster Presentations
 =====
 Extended abstracts
 
