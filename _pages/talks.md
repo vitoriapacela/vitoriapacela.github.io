@@ -1,9 +1,19 @@
 ---
 layout: archive
-title: "Poster presentations"
+title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+Talks
+=====
+**Análise de Componentes Independentes para Dados Binários**
+- Instituto de Matemática Pura e Aplicada (IMPA), Seminário Centro Pi. January 2023, Rio de Janeiro, Brazil. [Video](https://www.youtube.com/watch?v=L4PvFaKs_eE&list=PLo4jXE-LdDTQ0Ujvto1jy-XjOKW4Ozs2h)
+- FGV EMAp – Escola de Matemática Aplicada, Seminar. January 2023, Rio de Janeiro, Brazil.
+
+
+Poster Presentations
+=====
 
 **Independent Component Analysis for Binary Data with Variational Autoencoders**
 - Machine Learning Summer School (MLSS^N), Krakow (Poland), **2022**
