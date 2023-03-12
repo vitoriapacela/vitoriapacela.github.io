@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a student at [Mila](https://mila.quebec/en/) and the Université de Montréal, supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). I'm also working with Professor [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/) and Dr. [Diane Bouchacourt](https://ai.facebook.com/people/diane-bouchacourt) on representation learning at Meta AI (FAIR) Montreal as a visiting researcher.
-
-I am broadly interested in unsupervised learning, causal inference and discovery, ICA, deep neural networks, and their applications on the natural sciences. 
+I am a student at [Mila](https://mila.quebec/en/) and the Université de Montréal, supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). I'm also a visiting researcher at Meta AI (FAIR) Montreal, supervised by Professor [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/).
+I am broadly interested in causal representation learning. 
 
 I have a master's degree in data science from the University of Helsinki, where I was supervised by Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/) and Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/), working on independent component analysis for binary data ([thesis](https://helda.helsinki.fi/handle/10138/332599)).
 
