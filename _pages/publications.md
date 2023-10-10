@@ -4,6 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Technical reports
+
+## 2023
+<u>Vitória Barin-Pacela</u>, Kartik Ahuja, Simon Lacoste-Julien, Pascal Vincent. **Identifiability of Discretized Latent Coordinate Systems via Density Landmarks Detection**. arXiv:2306.16334 [CS.LG], June 2023. [Paper](https://arxiv.org/abs/2306.16334).
+
+## Published papers
 ## 2022
 
 A. Hyttinen, <u>V. Barin-Pacela</u>, A. Hyvärinen. **Binary Independent Component Analysis: A Non-stationarity-based Approach**. <i>38th Conference on Uncertainty in Artificial Intelligence (UAI)</i>. 2022. [Paper](https://proceedings.mlr.press/v180/hyttinen22a.html).
