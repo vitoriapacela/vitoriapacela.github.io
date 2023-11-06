@@ -14,6 +14,7 @@ I have a master's degree in data science from the University of Helsinki, where 
 
 I grew up in Brazil and moved to Finland to do my bachelor's in computer science at the University of Helsinki. During my bachelor's degree, I worked mostly on machine learning for particle physics and spent a couple of summers at CERN in Professor Maria Spiropulu's group and Dr. Maurizio Pierini's group.
 
+I practice yoga.
 <!--
 News
 ======
