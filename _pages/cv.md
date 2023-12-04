@@ -19,7 +19,7 @@ Education
 
 Work/Research experience
 ======
-* **Fall 2022 - present:** Visiting Researcher at **Meta AI Montreal** (Montreal, Canada)
+* **Fall 2022 - present:** Visiting Researcher at **Meta** (Montreal, Canada)
   * Fundamental AI Research (FAIR)
   * Supervisor: Professor [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
 
