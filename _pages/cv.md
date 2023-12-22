@@ -21,7 +21,7 @@ Work/Research experience
 ======
 * **Fall 2022 - present:** Visiting Researcher at **Meta** (Montreal, Canada)
   * Fundamental AI Research (FAIR)
-  * Supervisor: Professor [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
+  * Supervisor: [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
 
 * **Spring 2020 - Spring 2021:** Research Assistant at **University of Helsinki** (Helsinki, Finland)
   * Department of Computer Science
