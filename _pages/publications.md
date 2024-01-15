@@ -4,12 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Technical reports
-
-## 2023
-<u>Vitória Barin-Pacela</u>, Kartik Ahuja, Simon Lacoste-Julien, Pascal Vincent. **On the Identifiability of Quantized Factors**. arXiv:2306.16334 [CS.LG], June 2023. [Paper](https://arxiv.org/abs/2306.16334).
+%## Technical reports
 
 ## Published papers
+## 2024
+<u>Vitória Barin-Pacela</u>, Kartik Ahuja, Simon Lacoste-Julien, Pascal Vincent. **On the Identifiability of Quantized Factors**. 3rd Conference on Causal Learning and Reasoning ([CLeaR](https://www.cclear.cc/2024)). [Paper](https://arxiv.org/abs/2306.16334).
+
 ## 2022
 
 Antti Hyttinen, <u>Vitória Barin-Pacela</u>, Aapo Hyvärinen. **Binary Independent Component Analysis: A Non-stationarity-based Approach**. <i>38th Conference on Uncertainty in Artificial Intelligence (UAI)</i>. 2022. [Paper](https://proceedings.mlr.press/v180/hyttinen22a.html).
