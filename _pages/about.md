@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at [Mila](https://mila.quebec/en/) and the Université de Montréal, supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). I'm also a visiting researcher at Meta (FAIR) in Montreal, supervised by [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/).
+I am a Ph.D. student at [Mila](https://mila.quebec/en/) and the Université de Montréal, supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). I'm also a visiting researcher at Meta (FAIR) in Montreal, supervised by Professor [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/).
 I am broadly interested in causal representation learning and out-of-distribution generalization. 
 
 I have a master's degree in data science from the University of Helsinki, where I was supervised by Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/) and Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/), working on independent component analysis for binary data ([thesis](https://helda.helsinki.fi/handle/10138/332599)).
