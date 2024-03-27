@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF (March 2024)](https://vitoriapacela.github.io/files/CV-mars2024.pdf)
+
 Education
 ======
 * Ph.D. in Computer Science, **[Mila](https://mila.quebec/en/)**/**Université de Montréal**, 2021 - present
