@@ -1,11 +1,12 @@
 ---
 layout: archive
-permalink: /poster/
+title: "Presentations"
+permalink: /talks/
 author_profile: true
 ---
 {% include base_path %}
 
-Talks
+Presentations
 =====
 * Introduction to Probability. **Mila GFLowNet Workshop**. November 2023, Montreal, Canada. [[Video]](https://youtu.be/HHwhQx7W8jg?t=2863)
 
