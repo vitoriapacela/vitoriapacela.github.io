@@ -6,8 +6,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-Presentations
-=====
 * Introduction to Probability. **Mila GFLowNet Workshop**. November 2023, Montreal, Canada. [[Video]](https://youtu.be/HHwhQx7W8jg?t=2863)
 
 * Análise de Componentes Independentes para Dados Binários. January 2023, Rio de Janeiro, Brazil.
