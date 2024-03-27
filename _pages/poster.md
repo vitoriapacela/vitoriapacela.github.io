@@ -15,10 +15,11 @@ Talks
 
 Poster Presentations
 =====
-Extended abstracts
 
-* <u>V. Barin Pacela</u>, A. Hyttinen, A. Hyvärinen. (2021). &quot; Independent Component Analysis for Binary Data with Variational Autoencoders.&quot; Poster Presentation <i>CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School</i>.
+* <u>V. Barin Pacela</u>, A. Hyttinen, A. Hyvärinen. (2021). Independent Component Analysis for Binary Data with Variational Autoencoders. <i>CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School</i>.
 
-* <u>V. Barin Pacela</u>, M. Pierini. (2019). &quot; Fast Calorimeter Simulation with Wasserstein Generative Adversarial Networks.&quot; Poster Presentation <i>14th Women in Machine Learning Workshop, Conference on Neural Information Processing Systems (NeurIPS)</i>.
+* <u>V. Barin Pacela</u>, M. Pierini. (2019). Fast Calorimeter Simulation with Wasserstein Generative Adversarial Networks; <i>14th Women in Machine Learning Workshop, Conference on Neural Information Processing Systems (NeurIPS)</i>.
 
-* '<u>V. Barin Pacela</u>, M. Pierini. (2019). &quot; Fast Calorimeter Simulation with Wasserstein Generative Adversarial Networks.&quot; Poster Presentation <i>LatinX in AI Workshop, Conference on Neural Information Processing Systems (NeurIPS)</i>.'
+* <u>V. Barin Pacela</u>, M. Pierini. (2019). Fast Calorimeter Simulation with Wasserstein Generative Adversarial Networks. <i>LatinX in AI Workshop, Conference on Neural Information Processing Systems (NeurIPS)</i>.
+
+* B. Hooberman, M. Zhang, W. Wei, <u>V. Barin Pacela</u>, G. Khattak, S. Vallecorsa, A. Farbin, J-R. Vlimant, F. Carminati, M. Spiropulu, M. Pierini. Calorimetry with deep learning: particle classification, energy regression, and simulation for high-energy physics. <i>Workshop on Deep Learning for Physical Sciences, NIPS</i>. 2017. [[Extended abstract]](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf)
