@@ -10,7 +10,7 @@ author_profile: true
 
 ## 2022
 
-Antti Hyttinen, <u>Vitória Barin-Pacela</u>, Aapo Hyvärinen. *Binary Independent Component Analysis: A Non-stationarity-based Approach*. **38th Conference on Uncertainty in Artificial Intelligence (UAI)**. 2022. [[Paper]](https://proceedings.mlr.press/v180/hyttinen22a.html) [[Code]](https://github.com/ajhyttin/blica)
+Antti Hyttinen, <u>Vitória Barin-Pacela</u>, Aapo Hyvärinen. *Binary Independent Component Analysis: A Non-stationarity-based Approach*. **38th Conference on Uncertainty in Artificial Intelligence (UAI)**. 2022. [[Paper]](https://proceedings.mlr.press/v180/hyttinen22a.html) [[BLICA Code]](https://github.com/ajhyttin/blica) [[Binary iVAE Code]](https://github.com/vitoriapacela/iVAE)
 
 ___
 
