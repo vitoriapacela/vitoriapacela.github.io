@@ -24,7 +24,12 @@ vitoria.barin-pacela at mila.quebec
 
 News
 ======
-March 2024: Presenting a poster at CLeaR about our paper "On the Identifiability of Quantized Factors"!
+### 2024
+Apr: Presenting a poster at CLeaR about our paper "On the Identifiability of Quantized Factors"!
+
+Mar: I was awarded Mila's EDI Excellence Scholarship.
+
+Feb: Attended RIIAA in Quito, Ecuador.
 
 ___ 
 
