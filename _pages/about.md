@@ -18,26 +18,17 @@ I practice yoga.
 
 Contact
 ======
-<!-- vitoria.barinpacela at helsinki.fi  -->
-<!-- vitoria.barin.pacela at umontreal.ca -->
 vitoria.barin-pacela at mila.quebec
 
 News
 ======
 ### 2024
-Apr: Presenting a poster at CLeaR about our paper "On the Identifiability of Quantized Factors"!
-
-Mar: I was awarded Mila's EDI Excellence Scholarship.
-
-Feb: Attended RIIAA in Quito, Ecuador.
+*Apr*: Presenting a poster at CLeaR about our paper "On the Identifiability of Quantized Factors"! <br />
+*Mar*: I was awarded Mila's EDI Excellence Scholarship. <br />
+*Feb*: Attended RIIAA in Quito, Ecuador.
 
 ___ 
 
 <sub>Welcome to reach out if you have questions about doing a PhD at Mila, studying in Finland or Canada, pursuing a research career, and applying for a PhD.</sub>
 
 <sub>Estou aberta a compartilhar um pouco sobre a minha trajetória e responder dúvidas sobre o doutorado no Mila, estudos na Finlândia ou no Canadá, carreira acadêmica, e aplicações para um doutorado fora do Brasil.</sub>
-
-<!-- 
-Personal
-======
-I am from Brazil, where I used to participate in national science olympiads in various fields. In particular, the [Brazilian Mathematics Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/) has had a big impact in my life and career. I am inspired about the social inclusion implications of projects such as OBMEP by disseminating scientific and mathematical knowledge. -->
