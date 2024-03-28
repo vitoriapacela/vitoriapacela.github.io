@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ## 2024
-<u>Vitória Barin-Pacela</u>, Kartik Ahuja, Simon Lacoste-Julien, Pascal Vincent. *On the Identifiability of Quantized Factors*. **3rd Conference on Causal Learning and Reasoning ([CLeaR](https://www.cclear.cc/2024))**. [[Paper]](https://arxiv.org/abs/2306.16334) [[Code]](https://github.com/facebookresearch/quantized_identifiability)
+<u>Vitória Barin-Pacela</u>, Kartik Ahuja, Simon Lacoste-Julien, Pascal Vincent. *On the Identifiability of Quantized Factors*. **3rd Conference on Causal Learning and Reasoning ([CLeaR](https://www.cclear.cc/2024))**. 2024. [[Paper]](https://arxiv.org/abs/2306.16334) [[Code]](https://github.com/facebookresearch/quantized_identifiability)
 
 ## 2022
 
-Antti Hyttinen, <u>Vitória Barin-Pacela</u>, Aapo Hyvärinen. *Binary Independent Component Analysis: A Non-stationarity-based Approach*. **38th Conference on Uncertainty in Artificial Intelligence (UAI)**. 2022. [[Paper]](https://proceedings.mlr.press/v180/hyttinen22a.html)
+Antti Hyttinen, <u>Vitória Barin-Pacela</u>, Aapo Hyvärinen. *Binary Independent Component Analysis: A Non-stationarity-based Approach*. **38th Conference on Uncertainty in Artificial Intelligence (UAI)**. 2022. [[Paper]](https://proceedings.mlr.press/v180/hyttinen22a.html) [[Code]](https://github.com/ajhyttin/blica)
 
 ___
 
