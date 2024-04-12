@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2024
-<u>Vitória Barin-Pacela</u>, Kartik Ahuja, Simon Lacoste-Julien, Pascal Vincent. *On the Identifiability of Quantized Factors*. **3rd Conference on Causal Learning and Reasoning ([CLeaR](https://www.cclear.cc/2024))**. 2024. [[Paper]](https://arxiv.org/abs/2306.16334) [[Code]](https://github.com/facebookresearch/quantized_identifiability)
+<u>Vitória Barin-Pacela</u>, Kartik Ahuja, Simon Lacoste-Julien, Pascal Vincent. *On the Identifiability of Quantized Factors*. **3rd Conference on Causal Learning and Reasoning ([CLeaR](https://www.cclear.cc/2024))**. 2024. [[Paper]](https://proceedings.mlr.press/v236/barin-pacela24a.html) [[Code]](https://github.com/facebookresearch/quantized_identifiability)
 
 ## 2022
 
