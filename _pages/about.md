@@ -29,4 +29,4 @@ News
 
 ___ 
 
-<sub>Welcome to reach out if you have questions about doing a PhD at Mila, studying in Finland or Canada, pursuing a research career, and applying for a PhD. I'm also happy to discuss more about my projects and research area.</sub>
+<sub>Welcome to reach out if you have questions about doing a PhD at Mila, studying in Finland or Canada, pursuing a research career, and applying for a PhD. I'm also happy to discuss my projects and research area.</sub>
