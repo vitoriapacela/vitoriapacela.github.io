@@ -83,7 +83,7 @@ Research internships
 * **Summer 2016:** Undergraduate Research Fellow at **California Institute of Technology (Caltech)** (Pasadena, CA, USA)
   * Summer Undergraduate Research Fellowship (SURF)
   * Mid-infrared band structure characterization of double-gyroid photonic crystals
-  * Supervisors: Professor [Harry Atwater](https://daedalus.caltech.edu/team-member/harry-atwater/), Dr. [Siying Peng](https://glam.stanford.edu/people/siying-peng)
+  * Supervisors: Professor [Harry Atwater](https://daedalus.caltech.edu/team-member/harry-atwater/), Dr. Siying Peng
   
 * **Spring 2016 - Spring 2017:** Research Assistant at **University of Helsinki** (Helsinki, Finland)
   * Department of Physics
