@@ -88,7 +88,7 @@ Research internships
 * **Spring 2016 - Spring 2017:** Research Assistant at **University of Helsinki** (Helsinki, Finland)
   * Department of Physics
   * Molecular dynamics simulations for studying the mechanical properties of nanowires
-  * Supervisors: Professor [Kai Nordlund](http://www.acclab.helsinki.fi/~knordlun/), Dr. [Antti Kuronen](http://www.acclab.helsinki.fi/~aakurone/), Dr. Andrey Ilinov
+  * Supervisors: Professor [Kai Nordlund](https://www.mv.helsinki.fi/home/knordlun/), Dr. Antti Kuronen, Dr. Andrey Ilinov
 
 Posters/Extended abstracts
 ======
