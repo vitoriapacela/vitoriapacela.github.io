@@ -21,9 +21,9 @@ Education
 
 Employment
 ======
-Visiting Researcher at **Meta** (Montreal, Canada), 2022 - present
-  * Fundamental AI Research (FAIR)
-  * Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
+Visiting Researcher at **Meta**, Fundamental AI Research (FAIR), (Montreal, Canada), 2022 - present
+
+Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
 
 [Publications](https://vitoriapacela.github.io/publications/)
 ======
