@@ -27,6 +27,8 @@ Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
 
 Collaborator: Kartik Ahuja
 
+Working on disentangled representations and out-of-distribution generalization. Project on the identification of quantized factors published at CLeaR 2024.
+
 [Publications](https://vitoriapacela.github.io/publications/)
 ======
 
@@ -59,7 +61,7 @@ Research internships
 ======
 * **Spring 2020 - Spring 2021:** Research Assistant at **University of Helsinki** (Helsinki, Finland)
   * Department of Computer Science
-  * Independent Component Analysis for binary data employing variational autoencoders
+  * Independent Component Analysis for binary data employing variational autoencoders. Published at UAI 2022.
   * Supervisors: Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/), Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/)
 
 * **Summer 2019:** Research Intern at **[Mila](https://mila.quebec/en/)** -- Université de Montreal (Montreal, Canada)
@@ -77,7 +79,7 @@ Research internships
   
 * **Summer 2017:** Undergraduate Research Fellow at **California Institute of Technology (Caltech)** (Geneva, Switzerland)
   * Summer Undergraduate Research Fellowship (SURF)
-  * Energy estimation with deep convolutional neural networks for the Linear Collider Detector calorimeter
+  * Energy estimation with deep convolutional neural networks for the Linear Collider Detector calorimeter. Published at EPJ-C 2020.
   * Supervisors: Professor [Maria Spiropulu](https://pma.caltech.edu/people/maria-spiropulu), Dr. [Jean-Roch Vlimant](https://inspirehep.net/authors/1023557), Dr. [Maurizio Pierini](https://inspirehep.net/authors/1021028)  
   
 * **Summer 2016:** Undergraduate Research Fellow at **California Institute of Technology (Caltech)** (Pasadena, CA, USA)
