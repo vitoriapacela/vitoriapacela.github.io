@@ -25,6 +25,8 @@ Visiting Researcher at **Meta**, Fundamental AI Research (FAIR), (Montreal, Cana
 
 Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
 
+Collaborator: Kartik Ahuja
+
 [Publications](https://vitoriapacela.github.io/publications/)
 ======
 
