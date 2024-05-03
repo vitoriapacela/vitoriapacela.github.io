@@ -78,7 +78,7 @@ Research internships
 * **Summer 2017:** Undergraduate Research Fellow at **California Institute of Technology (Caltech)** (Geneva, Switzerland)
   * Summer Undergraduate Research Fellowship (SURF)
   * Energy estimation with deep convolutional neural networks for the Linear Collider Detector calorimeter
-  * Supervisors: Professor [Maria Spiropulu](http://hep.caltech.edu/~smaria/), Dr. [Jean-Roch Vlimant](https://inspirehep.net/authors/1023557), Dr. [Maurizio Pierini](https://inspirehep.net/authors/1021028)  
+  * Supervisors: Professor [Maria Spiropulu](https://pma.caltech.edu/people/maria-spiropulu), Dr. [Jean-Roch Vlimant](https://inspirehep.net/authors/1023557), Dr. [Maurizio Pierini](https://inspirehep.net/authors/1021028)  
   
 * **Summer 2016:** Undergraduate Research Fellow at **California Institute of Technology (Caltech)** (Pasadena, CA, USA)
   * Summer Undergraduate Research Fellowship (SURF)
