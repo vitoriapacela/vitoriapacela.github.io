@@ -27,7 +27,7 @@ Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
 
 Collaborator: Kartik Ahuja
 
-Working on disentangled representations and out-of-distribution generalization. Project on the identification of quantized factors published at CLeaR 2024.
+Working on disentangled representations and out-of-distribution generalization. Project on the identifiability of quantized factors published at CLeaR 2024.
 
 [Publications](https://vitoriapacela.github.io/publications/)
 ======
