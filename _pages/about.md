@@ -18,7 +18,7 @@ I practice yoga.
 
 Contact
 ======
-vitoria.barin-pacela at mila.quebec
+vitoria.barin-pacela at mila.quebec (she/elle/ela)
 
 News
 ======
