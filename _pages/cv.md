@@ -25,7 +25,7 @@ Visiting Researcher at **Meta**, Fundamental AI Research (FAIR), (Montreal, Cana
 
 Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
 
-Collaborator: Kartik Ahuja
+Collaborator: Dr. Kartik Ahuja
 
 Working on disentangled representations and out-of-distribution generalization. Project on the identifiability of quantized factors published at CLeaR 2024.
 
