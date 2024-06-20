@@ -21,7 +21,7 @@ Education
 
 Employment
 ======
-Visiting Researcher at **Meta**, Fundamental AI Research (FAIR), (Montreal, Canada), 2022 - present
+Visiting Researcher at **Meta** Fundamental Artificial Intelligence Research (FAIR), (Montreal, Canada), 2022 - present
 
 Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
 
@@ -54,7 +54,7 @@ Selected Service
 * Women in Machine Learning (WiML) Breakout Session -- Leveraging Large Scale Models for Identifying and Fixing Deep Neural Networks Biases. Co-organized with Polina Kirichenko, Reyhane Askari, Megan Richards, and Mohammad Pezeshki, 2023.
 * Volunteer -- WiML, LXAI Workshops at ICML, 2023.
 * **Teaching Skills Committee, University of Helsinki**, Department of Computer Science -- Student member, **assessed teaching demonstrations and teaching merits** of candidates to the positions of **professor** and docent. 2020.
-* International Masterclasses -- **Invited panelist**, Hands on Particle Physics at IFT \& NCC -- UNESP, São Paulo. Participated in round tables in the international day of women and girls in science, as well as in the general masterclasses. 2017-2024
+* International Masterclasses -- **Invited panelist**, Hands on Particle Physics at IFT & NCC -- UNESP, São Paulo. Participated in round tables in the international day of women and girls in science, as well as in the general masterclasses. 2017-2024
 
   
 Research internships
