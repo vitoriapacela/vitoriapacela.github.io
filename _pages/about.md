@@ -26,7 +26,3 @@ News
 *Apr*: Presenting a poster at [CLeaR](https://www.cclear.cc/2024), LA, about our paper "On the Identifiability of Quantized Factors"! <br />
 *Mar*: I was awarded Mila's EDI Excellence Scholarship. <br />
 *Feb*: Attended [RIIAA](https://www.riiaa.org/riiaa6) in Quito, Ecuador.
-
-___ 
-
-<sub>Welcome to reach out if you have questions about doing a PhD at Mila, studying in Finland or Canada, pursuing a research career, and applying for a PhD. I'm also happy to discuss my projects and research area.</sub>
