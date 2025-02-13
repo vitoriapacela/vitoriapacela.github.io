@@ -19,9 +19,9 @@ Education
   * [Thesis: Independent Component Analysis for Binary Data](https://helda.helsinki.fi/handle/10138/332599)
 * B.S. in Computer Science, **University of Helsinki**, 2019
 
-Employment
+Industrial Research Experience
 ======
-Visiting Researcher at **Meta** Fundamental Artificial Intelligence Research (FAIR), (Montreal, Canada), 2022 - present
+Visiting Researcher at **Meta** Fundamental Artificial Intelligence Research (FAIR), (Montreal, Canada), 2022 - 2024
 
 Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
 
@@ -57,7 +57,7 @@ Selected Service
 * International Masterclasses -- **Invited panelist**, Hands on Particle Physics at IFT & NCC -- UNESP, São Paulo. Participated in round tables in the international day of women and girls in science, as well as in the general masterclasses. 2017-2024
 
   
-Research internships
+Academic Research Internships
 ======
 * **Spring 2020 - Spring 2021:** Research Assistant at **University of Helsinki** (Helsinki, Finland)
   * Department of Computer Science
