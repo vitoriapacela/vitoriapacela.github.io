@@ -23,7 +23,7 @@ vitoria.barin-pacela at mila.quebec (she/elle/ela)
 News
 ======
 ### 2025
-*Feb:* Attending the Bellairs Workshop on Causality in Barbados!
+*Feb:* Attending the [Bellairs Workshop on Causality](https://bclworkshop.github.io/2025/) in Barbados!
 
 ### 2024
 *Apr*: Presenting a poster at [CLeaR](https://www.cclear.cc/2024), LA, about our paper "On the Identifiability of Quantized Factors"! <br />
