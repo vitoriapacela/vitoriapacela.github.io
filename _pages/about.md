@@ -23,6 +23,7 @@ vitoria.barin-pacela at mila.quebec (she/elle/ela)
 News
 ======
 ### 2025
+I am a TA for the [Representation Learning](https://sites.google.com/view/ift6135b-h2025/course-description) course by Professor [Aaron Courville](https://mila.quebec/en/directory/aaron-courville). <br />
 *Mar:* Attending [KHIPU](https://khipu.ai/) in Santiago. <br />
 *Feb:* Attending the [Bellairs Workshop on Causality](https://bclworkshop.github.io/2025/) in Barbados!
 
