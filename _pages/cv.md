@@ -29,7 +29,7 @@ Visiting Researcher at **Meta** Fundamental Artificial Intelligence Research (FA
 [Publications](https://vitoriapacela.github.io/publications/)
 ======
 
-[Presentations](https://vitoriapacela.github.io/talks/)
+[Invited talks](https://vitoriapacela.github.io/talks/)
 ======
 
 Selected Awards
