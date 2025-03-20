@@ -22,12 +22,9 @@ Education
 Industrial Research Experience
 ======
 Visiting Researcher at **Meta** Fundamental Artificial Intelligence Research (FAIR), (Montreal, Canada), 2022 - 2024
-
-Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
-
-Collaborator: Dr. Kartik Ahuja
-
-Working on disentangled representations and out-of-distribution generalization. Project on the identifiability of quantized factors published at CLeaR 2024.
+- Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
+- Collaborator: Dr. Kartik Ahuja
+- Project on the identifiability of quantized factors published at CLeaR 2024 and another project under submission.
 
 [Publications](https://vitoriapacela.github.io/publications/)
 ======
