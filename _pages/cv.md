@@ -46,7 +46,7 @@ Teaching
 Selected Service
 ======
 * Conference **Reviewer**
-  - International Conference on Artificial Intelligence and Statistics (AISTATS), 2023
+  - AISTATS 2024 and 2025, CLeaR 2025, UAI 2025
 * **Meta Women in AI** Steering Committee -- Montreal Lead, 2023-2024
 * **Reviewer, Mila PhD/MSc applications**, 2023
 * Mental Health First Aider -- Mila. Certified training by the Mental Health Commission of Canada, 2023.
