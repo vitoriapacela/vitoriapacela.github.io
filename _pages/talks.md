@@ -6,6 +6,10 @@ author_profile: true
 ---
 {% include base_path %}
 
+* On the Identifiability of Quantized Factors.
+  - **Cold Spring Harbor Laboratory**, October 2024. New York, USA.
+  - **Institute of Science and Technology Austria (ISTA)**, July 2024. Vienna, Austria.
+
 * Introduction to Probability. [**Mila GFLowNet Workshop**](https://www.gflownet.org/). November 2023, Montreal, Canada. [[Video]](https://youtu.be/HHwhQx7W8jg?t=2863)
 
 * Análise de Componentes Independentes para Dados Binários. January 2023, Rio de Janeiro, Brazil.
