@@ -38,6 +38,11 @@ Selected Awards
 * Professor Cho Diversity Award – Mila, 2021
 * Instituto TIM – Scholarship for medalists of the Brazilian Mathematics Olympiad of Public Schools (OBMEP) enrolled in STEM undergraduate degrees, 2015-2019
 
+Teaching
+======
+* Teaching Assitant, Université de Montréal 
+  - [Representation Learning](https://sites.google.com/view/ift6135b-h2025/course-description) course by Professor [Aaron Courville](https://mila.quebec/en/directory/aaron-courville).
+
 Selected Service
 ======
 * Conference **Reviewer**
