@@ -48,7 +48,7 @@ Selected Service
 * Conference **Reviewer**
   - AISTATS 2024 and 2025, CLeaR 2025, UAI 2025
 * **Meta Women in AI** Steering Committee -- Montreal Lead, 2023-2024
-* **Reviewer, Mila PhD/MSc applications**, 2023
+* **Reviewer, Mila PhD/MSc applications**, 2023-2024
 * Mental Health First Aider -- Mila. Certified training by the Mental Health Commission of Canada, 2023.
 * Mila Library -- Created and managed a library of books at Mila, 2022-2023.
 * Workshop reviewer
