@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am pursuing a Ph.D. degree at [Mila](https://mila.quebec/en/) and the Université de Montréal, supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). I also worked for two years at Meta Fundamental Artificial Intelligence Research (FAIR) in Montreal as a visiting researcher, supervised by Professor [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/).
-I have been conducting research on causal representation learning, independent component analysis, and disentanglement. I'm also broadly interested in out-of-distribution generalization, robustness, safety, and interpretability.
+I have been conducting research on causal representation learning, independent component analysis, and disentanglement. I'm also broadly interested in out-of-distribution generalization, robustness, safety, and interpretability. I'm looking to learn more about causal abstraction, computational cognitive science, and [affective neuroAI](https://www.cs.helsinki.fi/u/ahyvarin/painintl/).
 
 I have a master's degree in data science from the University of Helsinki, where I was supervised by Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/) and Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/), working on independent component analysis for binary data ([thesis](https://helda.helsinki.fi/handle/10138/332599)).
 
