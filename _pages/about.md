@@ -27,6 +27,7 @@ vitoria.barin-pacela at mila.quebec (she/elle/ela)
 News
 ======
 ### 2025
+*July* I'll be attending ICML and I'll present a poster at the [SIM](https://sites.google.com/view/sim-icml2025/home?authuser=0) workshop! <br />
 *June:* I started an internship in the NeuroAI program at the [Cold Spring Harbor Laboratory](https://www.cshl.edu/), working with Professor [David Klindt](https://facultyprofiles.cshl.edu/david.klindt).  <br />
 *May:* I was a 2025 Upper Bound Talent Bursary recipient. <br />
 *Winter:* I am a TA for the [Representation Learning](https://sites.google.com/view/ift6135b-h2025/course-description) course by Professor [Aaron Courville](https://mila.quebec/en/directory/aaron-courville). <br />
