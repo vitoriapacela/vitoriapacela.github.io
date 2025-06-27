@@ -19,12 +19,48 @@ Education
   * [Thesis: Independent Component Analysis for Binary Data](https://helda.helsinki.fi/handle/10138/332599)
 * B.S. in Computer Science, **University of Helsinki**, 2019
 
-Industrial Research Experience
+Work experience
 ======
-Visiting Researcher at **Meta** Fundamental Artificial Intelligence Research (FAIR), (Montreal, Canada), 2022 - 2024
-- Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
-- Collaborator: Dr. [Kartik Ahuja](https://ahujak.github.io/index.html)
-- Project on the identifiability of quantized factors published at CLeaR 2024 and another project under submission.
+* **Summer 2025:** NeuroAI Intern at **Cold Spring Harbor Laboratory** (Cold Spring Harbor, NY, USA)
+  - Supervisor: Dr. [David Klindt](https://www.cshl.edu/research/faculty-staff/david-klindt/)
+
+* **2022-2024:** Visiting Researcher at **Meta** Fundamental Artificial Intelligence Research (FAIR), (Montreal, Canada)
+  - Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
+  - Collaborator: Dr. [Kartik Ahuja](https://ahujak.github.io/index.html)
+  - Project on the identifiability of quantized factors published at CLeaR 2024 and another project under submission.
+
+* **Spring 2020 - Spring 2021:** Research Assistant at **University of Helsinki** (Helsinki, Finland)
+  * Department of Computer Science
+  * Independent Component Analysis for binary data employing variational autoencoders. Published at UAI 2022.
+  * Supervisors: Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/), Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/)
+
+* **Summer 2019:** Research Intern at **[Mila](https://mila.quebec/en/)** -- Université de Montreal (Montreal, Canada)
+  * Visualizing the Impacts of Climate Change with machine learning
+  * Supervisor: Professor [Yoshua Bengio](https://yoshuabengio.org/)
+  
+* **Summer 2018:** Intern at **CERN -- Openlab** (Geneva, Switzerland)
+  * Fast calorimeter simulation using Wasserstein Generative Adversarial Networks (WGANs) for the Highly Granular Calorimeter (HGCAL) of the CMS experiment
+  * Supervisor: Dr. [Maurizio Pierini](https://inspirehep.net/authors/1021028)
+  
+* **Fall 2017 - Fall 2018:** Research Assistant at **University of Helsinki** (Helsinki, Finland)
+  * Department of Physics
+  * Jet energy reconstruction and fast calorimeter simulation with deep learning
+  * Supervisor: Professor [Mikko Voutilainen](https://researchportal.helsinki.fi/en/persons/mikko-voutilainen)
+  
+* **Summer 2017:** Undergraduate Research Fellow at **California Institute of Technology (Caltech)** (Geneva, Switzerland)
+  * Summer Undergraduate Research Fellowship (SURF)
+  * Energy estimation with deep convolutional neural networks for the Linear Collider Detector calorimeter. Published at EPJ-C 2020.
+  * Supervisors: Professor [Maria Spiropulu](https://pma.caltech.edu/people/maria-spiropulu), Dr. [Jean-Roch Vlimant](https://inspirehep.net/authors/1023557), Dr. [Maurizio Pierini](https://inspirehep.net/authors/1021028)  
+  
+* **Summer 2016:** Undergraduate Research Fellow at **California Institute of Technology (Caltech)** (Pasadena, CA, USA)
+  * Summer Undergraduate Research Fellowship (SURF)
+  * Mid-infrared band structure characterization of double-gyroid photonic crystals
+  * Supervisors: Professor [Harry Atwater](https://daedalus.caltech.edu/team-member/harry-atwater/), Dr. Siying Peng
+  
+* **Spring 2016 - Spring 2017:** Research Assistant at **University of Helsinki** (Helsinki, Finland)
+  * Department of Physics
+  * Molecular dynamics simulations for studying the mechanical properties of nanowires
+  * Supervisors: Professor [Kai Nordlund](https://www.mv.helsinki.fi/home/knordlun/), Dr. Antti Kuronen, Dr. Andrey Ilinov
 
 [Publications](https://vitoriapacela.github.io/publications/)
 ======
@@ -58,41 +94,6 @@ Selected Service
 * **Teaching Skills Committee, University of Helsinki**, Department of Computer Science -- Student member, **assessed teaching demonstrations and teaching merits** of candidates to the positions of **professor** and docent. 2020.
 * International Masterclasses -- **Invited panelist**, Hands on Particle Physics at IFT & NCC -- UNESP, São Paulo. Participated in round tables in the international day of women and girls in science, as well as in the general masterclasses. 2017-2024
 
-  
-Academic Research Internships
-======
-* **Spring 2020 - Spring 2021:** Research Assistant at **University of Helsinki** (Helsinki, Finland)
-  * Department of Computer Science
-  * Independent Component Analysis for binary data employing variational autoencoders. Published at UAI 2022.
-  * Supervisors: Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/), Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/)
-
-* **Summer 2019:** Research Intern at **[Mila](https://mila.quebec/en/)** -- Université de Montreal (Montreal, Canada)
-  * Visualizing the Impacts of Climate Change with machine learning
-  * Supervisor: Professor [Yoshua Bengio](https://yoshuabengio.org/)
-  
-* **Summer 2018:** Intern at **CERN -- Openlab** (Geneva, Switzerland)
-  * Fast calorimeter simulation using Wasserstein Generative Adversarial Networks (WGANs) for the Highly Granular Calorimeter (HGCAL) of the CMS experiment
-  * Supervisor: Dr. [Maurizio Pierini](https://inspirehep.net/authors/1021028)
-  
-* **Fall 2017 - Fall 2018:** Research Assistant at **University of Helsinki** (Helsinki, Finland)
-  * Department of Physics
-  * Jet energy reconstruction and fast calorimeter simulation with deep learning
-  * Supervisor: Professor [Mikko Voutilainen](https://researchportal.helsinki.fi/en/persons/mikko-voutilainen)
-  
-* **Summer 2017:** Undergraduate Research Fellow at **California Institute of Technology (Caltech)** (Geneva, Switzerland)
-  * Summer Undergraduate Research Fellowship (SURF)
-  * Energy estimation with deep convolutional neural networks for the Linear Collider Detector calorimeter. Published at EPJ-C 2020.
-  * Supervisors: Professor [Maria Spiropulu](https://pma.caltech.edu/people/maria-spiropulu), Dr. [Jean-Roch Vlimant](https://inspirehep.net/authors/1023557), Dr. [Maurizio Pierini](https://inspirehep.net/authors/1021028)  
-  
-* **Summer 2016:** Undergraduate Research Fellow at **California Institute of Technology (Caltech)** (Pasadena, CA, USA)
-  * Summer Undergraduate Research Fellowship (SURF)
-  * Mid-infrared band structure characterization of double-gyroid photonic crystals
-  * Supervisors: Professor [Harry Atwater](https://daedalus.caltech.edu/team-member/harry-atwater/), Dr. Siying Peng
-  
-* **Spring 2016 - Spring 2017:** Research Assistant at **University of Helsinki** (Helsinki, Finland)
-  * Department of Physics
-  * Molecular dynamics simulations for studying the mechanical properties of nanowires
-  * Supervisors: Professor [Kai Nordlund](https://www.mv.helsinki.fi/home/knordlun/), Dr. Antti Kuronen, Dr. Andrey Ilinov
 
 Posters/Extended abstracts
 ======
