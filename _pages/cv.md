@@ -23,6 +23,7 @@ Work experience
 ======
 * **Summer 2025:** NeuroAI Intern at **Cold Spring Harbor Laboratory** (Cold Spring Harbor, NY, USA)
   - Supervisor: Dr. [David Klindt](https://www.cshl.edu/research/faculty-staff/david-klindt/)
+  - Mentored undergraduate student.
 
 * **2022-2024:** Visiting Researcher at **Meta** Fundamental Artificial Intelligence Research (FAIR), (Montreal, Canada)
   - Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
