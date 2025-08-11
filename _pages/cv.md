@@ -23,7 +23,7 @@ Work experience
 ======
 * **Summer 2025:** NeuroAI Intern at **Cold Spring Harbor Laboratory** (Cold Spring Harbor, NY, USA)
   - Supervisor: Dr. [David Klindt](https://www.cshl.edu/research/faculty-staff/david-klindt/)
-  - Mentored undergraduate student.
+  - Mentored student from the Undergraduate Research Program.
 
 * **2022-2024:** Visiting Researcher at **Meta** Fundamental Artificial Intelligence Research (FAIR), (Montreal, Canada)
   - Supervisor: Dr. [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/)
@@ -98,6 +98,7 @@ Selected Service
 
 Posters/Extended abstracts
 ======
+* <u>V. Barin Pacela</u>, K. Ahuja, S. Lacoste-Julien, P. Vincent. Quantized Disentanglement: A Practical Approach. *SIM workshop at ICML* (2025).
 * <u>V. Barin Pacela</u>, K. Ahuja, S. Lacoste-Julien, P. Vincent. On the Identifiability of Quantized Factors. RIIAA LATAM, Quito, Ecuador (2024).
 * <u>V. Barin Pacela</u>, K. Ahuja, S. Lacoste-Julien, P. Vincent. Identifiability of Discretized Latent Coordinate Systems via Density Landmarks Detection. *SCIS, SPIGM, and LXAI workshops at ICML*, Honolulu, Hawaii, USA (2023).
 * <u>V. Barin Pacela</u>, A. Hyttinen, A. Hyvärinen. Independent Component Analysis for Binary Data with Variational Autoencoders. <i>CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School</i> (2021).
