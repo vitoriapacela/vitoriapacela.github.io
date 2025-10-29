@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 I am pursuing a Ph.D. degree at [Mila](https://mila.quebec/en/) and the Université de Montréal, supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). I also worked for two years at Meta Fundamental Artificial Intelligence Research (FAIR) in Montreal as a visiting researcher, supervised by Professor [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/) and collaborating with Dr. [Kartik Ahuja](https://ahujak.github.io/).
-I'm currently in New York as a NeuroAI intern at the Cold Spring Harbor Laboratory, working with Professor [David Klindt](https://facultyprofiles.cshl.edu/david.klindt).
+I spent the past summer in New York as a NeuroAI intern at the Cold Spring Harbor Laboratory, working with Professor [David Klindt](https://facultyprofiles.cshl.edu/david.klindt).
 
-I have been conducting research on causal representation learning, independent component analysis, and disentanglement. I'm also broadly interested in out-of-distribution generalization, robustness, safety, and interoperability. 
+I have been conducting research on causal representation learning, independent component analysis, and disentanglement. I'm also broadly interested in out-of-distribution generalization, robustness, safety, and interpretability. 
 
 <!---
 I'm looking to learn more about causal abstraction, computational cognitive science, fairness, and [suffering](https://www.cs.helsinki.fi/u/ahyvarin/painintl/).
@@ -29,7 +29,8 @@ vitoria.barin-pacela at mila.quebec (she/elle/ela)
 News
 ======
 ### 2025
-*July* I'll be attending ICML and I'll present a poster at the [SIM](https://sites.google.com/view/sim-icml2025/home?authuser=0) workshop! <br />
+*Oct:* Gave a workshop on VAEs at [Bayes Plurinacional](https://bayesplurinacional.org/en/2025/disertantes.html) and gave a talk at EIA University in Colombia. <br />
+*July:* I'll be attending ICML and I'll present a poster at the [SIM](https://sites.google.com/view/sim-icml2025/home?authuser=0) workshop! <br />
 *June:* I started an internship in the NeuroAI program at the [Cold Spring Harbor Laboratory](https://www.cshl.edu/), working with Professor [David Klindt](https://facultyprofiles.cshl.edu/david.klindt).  <br />
 *May:* I was a 2025 Upper Bound Talent Bursary recipient. <br />
 *Winter:* I am TAing for the [Representation Learning](https://sites.google.com/view/ift6135b-h2025/course-description) course by Professor [Aaron Courville](https://mila.quebec/en/directory/aaron-courville). <br />
