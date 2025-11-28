@@ -8,7 +8,9 @@ author_profile: true
 
 * Workshop on Variational Autoencoders. [**Bayes Plurinacional**](https://bayesplurinacional.org/en/2025/disertantes.html). October 2025, Bogotá, Colombia.
 
-* Quantized Disentanglement: theory and practice. EIA University. October 2025, Medellín, Colombia.
+* Quantized Disentanglement: theory and practice.
+  - EIA University. October 2025, Medellín, Colombia.
+  - [Bellairs Workshop on Causality](https://bclworkshop.github.io/2025/). February 2025, Barbados.
 
 * On the Identifiability of Quantized Factors.
   - **Cold Spring Harbor Laboratory**, October 2024. New York, USA.
