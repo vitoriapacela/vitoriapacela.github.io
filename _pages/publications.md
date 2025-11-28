@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2025
+<u>Vitória Barin-Pacela</u>, Kartik Ahuja, Simon Lacoste-Julien, Pascal Vincent. *Operationalizing Quantized Disentanglement*. Under submission. 2024. [[Paper]](https://arxiv.org/abs/2511.20927)
+
 ## 2024
 <u>Vitória Barin-Pacela</u>, Kartik Ahuja, Simon Lacoste-Julien, Pascal Vincent. *On the Identifiability of Quantized Factors*. **3rd Conference on Causal Learning and Reasoning ([CLeaR](https://www.cclear.cc/2024))**. 2024. [[Paper]](https://proceedings.mlr.press/v236/barin-pacela24a.html) [[Code]](https://github.com/facebookresearch/quantized_identifiability)
 
