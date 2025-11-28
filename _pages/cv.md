@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF (October 2025)](https://vitoriapacela.github.io/files/CV.pdf)
+[PDF (November 2025)](https://vitoriapacela.github.io/files/CV.pdf)
 
 Education
 ======
