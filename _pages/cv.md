@@ -104,5 +104,11 @@ Posters/Extended abstracts
 * <u>V. Barin Pacela</u>, A. Hyttinen, A. Hyvärinen. Independent Component Analysis for Binary Data with Variational Autoencoders. <i>CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School</i> (2021).
 * <u>V. Barin Pacela</u>, M. Pierini. Fast Calorimeter Simulation with Wasserstein Generative Adversarial Networks; <i>Women in Machine Learning Workshop and LatinX in AI Workshop, Conference on Neural Information Processing Systems (NeurIPS)</i> (2019). [[Code]](https://github.com/vitoriapacela/hgcal_wgan)
 * B. Hooberman, M. Zhang, W. Wei, <u>V. Barin Pacela</u>, G. Khattak, S. Vallecorsa, A. Farbin, J-R. Vlimant, F. Carminati, M. Spiropulu, M. Pierini. Calorimetry with deep learning: particle classification, energy regression, and simulation for high-energy physics. <i>Workshop on Deep Learning for Physical Sciences, NIPS</i> (2017). [[Paper]](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf)
-  
+
+Yoga
+======
+**Hatha \& Vinyasa Yoga Teacher Training** (380h), 2025-2026
+
+- [Yoga Sangha](https://yoga-sangha.com/en/pages/a-propos), Montreal. With [Sylvie Tremblay](https://yoga-sangha.com/en/pages/sylvie-tremblay).
+
 
