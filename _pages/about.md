@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am pursuing a Ph.D. degree at [Mila](https://mila.quebec/en/) and the Université de Montréal, supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). I also worked for two years at Meta Fundamental Artificial Intelligence Research (FAIR) in Montreal as a visiting researcher, supervised by Professor [Pascal Vincent](https://ai.facebook.com/people/pascal-vincent/) and collaborating with Dr. [Kartik Ahuja](https://ahujak.github.io/).
+I am pursuing a Ph.D. degree at [Mila](https://mila.quebec/en/) and the Université de Montréal, supervised by Professor [Simon Lacoste-Julien](http://www.iro.umontreal.ca/~slacoste/). I also worked for two years at Meta Fundamental Artificial Intelligence Research (FAIR) in Montreal as a visiting researcher, supervised by Professor [Pascal Vincent](https://mila.quebec/en/directory/pascal-vincent) and collaborating with Dr. [Kartik Ahuja](https://ahujak.github.io/).
 I spent the past summer in New York as a NeuroAI intern at the Cold Spring Harbor Laboratory, working with Professor [David Klindt](https://facultyprofiles.cshl.edu/david.klindt).
+
+**I am currently on the job market for research positions. Please reach out if you see a fit.**
 
 I have been conducting research on causal representation learning, independent component analysis, and disentanglement, and out-of-distribution generalization. I'm also broadly interested robustness, safety, interpretability, fairness, and AI for science. 
 
