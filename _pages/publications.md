@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2026
-<u>Vitória Barin-Pacela</u>, Shruti Joshi, Isabela Camacho, Simon Lacoste-Julien, David Klindt. *Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation*. Under submission. 2026. [[Paper]](https://arxiv.org/abs/2603.28744)
+<u>Vitória Barin-Pacela</u>\*, Shruti Joshi\*, Isabela Camacho, Simon Lacoste-Julien, David Klindt. *Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation*. Under submission. 2026. [[Paper]](https://arxiv.org/abs/2603.28744)
 
 ## 2025
 <u>Vitória Barin-Pacela</u>, Kartik Ahuja, Simon Lacoste-Julien, Pascal Vincent. *Operationalizing Quantized Disentanglement*. Under submission. 2025. [[Paper]](https://arxiv.org/abs/2511.20927)
