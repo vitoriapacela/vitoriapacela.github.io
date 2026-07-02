@@ -107,7 +107,7 @@ Posters/Extended abstracts
 
 Yoga
 ======
-**Hatha \& Vinyasa Yoga Teacher Training** (380h), 2025-2026
+**Hatha & Vinyasa Yoga Teacher Training** (380h), 2025-2026
 
 - [Yoga Sangha](https://yoga-sangha.com/en/pages/a-propos), Montreal. With [Sylvie Tremblay](https://yoga-sangha.com/en/pages/sylvie-tremblay).
 
