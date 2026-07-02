@@ -30,6 +30,12 @@ vitoria.barin-pacela at mila.quebec (she/elle/ela)
 
 News
 ======
+### 2026
+- I'm attending ICML in Seoul! I will present at the Workshop on Compositional Learning: Safety, Interpretability, and Agents. Looking forward to setting up meetings during the conference.
+- Our paper "[Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation](https://arxiv.org/abs/2603.28744)" was accepted at UAI. See you in Amsterdam!
+- Attending the BIRS workshop on Identifiable Representation Learning!
+
+
 ### 2025
 *Oct:* Gave a workshop on VAEs at [Bayes Plurinacional](https://bayesplurinacional.org/en/2025/disertantes.html) and gave a talk at EIA University in Colombia. <br />
 *July:* I'll be attending ICML and I'll present a poster at the [SIM](https://sites.google.com/view/sim-icml2025/home?authuser=0) workshop! <br />
