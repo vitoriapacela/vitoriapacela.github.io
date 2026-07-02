@@ -14,26 +14,28 @@ I spent the past summer in New York as a NeuroAI intern at the Cold Spring Harbo
 
 I have been conducting research on causal representation learning, independent component analysis, and disentanglement, and out-of-distribution generalization. I'm also broadly interested robustness, safety, interpretability, fairness, and AI for science. 
 
-<!---
-I'm looking to learn more about causal abstraction, computational cognitive science, fairness, and [suffering](https://www.cs.helsinki.fi/u/ahyvarin/painintl/).
--->
-
 I have a master's degree in data science from the University of Helsinki, where I was supervised by Professor [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/) and Dr. [Antti Hyttinen](https://www.cs.helsinki.fi/u/ajhyttin/), working on independent component analysis for binary data ([thesis](https://helda.helsinki.fi/handle/10138/332599)).
 
 I grew up in Brazil and moved to Finland to do my bachelor's in computer science at the University of Helsinki. During my bachelor's degree, I worked mostly on machine learning for particle physics and spent a couple of summers at CERN in Professor Maria Spiropulu's group and Dr. Maurizio Pierini's group.
-
-I practice yoga.
 
 Contact
 ======
 vitoria.barin-pacela at mila.quebec (she/elle/ela)
 
+Yoga
+======
+The practice of yoga inspires my life at every moment.
+I am finishing my yoga teacher training with [Sylvie Tremblay](https://yoga-sangha.com/en/pages/sylvie-tremblay?srsltid=AfmBOooTHky2FuoBwcbESc7OQSYnA_HWKrbGpR0ookIQ_TDEmyJjUHJn) at Yoga Sangha. I'm open to inquiries about classes, and I also would be interested in teaching yoga for AI communities, conferences and workshops.
+
+On a research note, I'm interested in studying consciousness and working on the computational and mathematical fundamentals of yogic philosophy, with the purpose of better understanding and validating the tradition. 
+
+
 News
 ======
 ### 2026
-- I'm attending ICML in Seoul! I will present at the Workshop on Compositional Learning: Safety, Interpretability, and Agents. Looking forward to setting up meetings during the conference.
-- Our paper "[Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation](https://arxiv.org/abs/2603.28744)" was accepted at UAI. See you in Amsterdam!
-- Attending the BIRS workshop on Identifiable Representation Learning!
+*Jul:* I'm attending ICML in Seoul! I will present at the Workshop on Compositional Learning: Safety, Interpretability, and Agents. Looking forward to setting up meetings during the conference. <br />
+*Aug:*  Our paper "[Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation](https://arxiv.org/abs/2603.28744)" was accepted at UAI. See you in Amsterdam! <br />
+*Oct:*  Attending the BIRS workshop on Identifiable Representation Learning! <br />
 
 
 ### 2025
