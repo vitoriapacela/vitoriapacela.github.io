@@ -33,7 +33,7 @@ On a research note, I'm interested in studying consciousness and working on the 
 News
 ======
 ### 2026
-*Jul:* I'm attending ICML in Seoul! I will present at the Workshop on Compositional Learning: Safety, Interpretability, and Agents. Looking forward to setting up meetings during the conference. <br />
+*Jul:* I'm attending ICML in Seoul! I will present a poster at the Workshop on Compositional Learning: Safety, Interpretability, and Agents. Looking forward to setting up meetings during the conference. <br />
 *Aug:*  Our paper "[Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation](https://arxiv.org/abs/2603.28744)" was accepted at UAI. See you in Amsterdam! <br />
 *Oct:*  Attending the BIRS workshop on Identifiable Representation Learning! <br />
 
