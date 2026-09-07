@@ -33,7 +33,7 @@ On a research note, I'm interested in studying consciousness and working on the 
 News
 ======
 ### 2026
-*Oct:*  Attending the BIRS workshop on Identifiable Representation Learning (Banff, Canada). <br />
+*Oct:*  Attending the [BIRS workshop on Identifiable Representation Learning](http://www.birs.ca/event/26w5622) (Banff, Canada). <br />
 *Aug:*  Presenting our paper "[Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation](https://arxiv.org/abs/2603.28744)" at UAI (Amsterdam, Netherlands). <br />
 *Jul:* I'm attending ICML in Seoul! I will present a poster at the Workshop on Compositional Learning: Safety, Interpretability, and Agents. Looking forward to setting up meetings during the conference. <br />
 
