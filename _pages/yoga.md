@@ -12,7 +12,7 @@ Yoga has been an integral part of my life and my being. Teaching and sharing thi
 I am available for on-demand teaching, as well as leading yoga and meditation classes for AI and academic events.
 
 # Certifications
-- [Hatha \& Vinyasa Yoga](https://yoga-sangha.com/en/pages/certification-hatha-vinyasa-380h) (380h) – Yoga Sangha
+- [Hatha & Vinyasa Yoga](https://yoga-sangha.com/en/pages/certification-hatha-vinyasa-380h) (380h) – Yoga Sangha
 - [Dhyana Darshan](https://yoga-sangha.com/en/pages/module-dhyana-darshan) (50h) – meditation training and study of the mind – Yoga Sangha
 
 # Research
