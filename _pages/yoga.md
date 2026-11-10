@@ -12,8 +12,8 @@ Yoga has been an integral part of my life and my being. Teaching and sharing thi
 I am available for on-demand teaching, as well as leading yoga and meditation classes for AI and academic events.
 
 ## Certifications
-- [Hatha & Vinyasa Yoga](https://yoga-sangha.com/en/pages/certification-hatha-vinyasa-380h) (380h) – Yoga Sangha
-- [Dhyana Darshan](https://yoga-sangha.com/en/pages/module-dhyana-darshan) (50h) – meditation training and study of the mind – Yoga Sangha
+- [Hatha & Vinyasa Yoga](https://yoga-sangha.com/en/pages/certification-hatha-vinyasa-380h) (380h) – Yoga Sangha, 2025-2026.
+- [Dhyana Darshan](https://yoga-sangha.com/en/pages/module-dhyana-darshan) (50h) – meditation training and study of the mind – Yoga Sangha, 2026.
 
 ## Research
 On a research note, I'm interested in studying consciousness and working on the computational and mathematical fundamentals of yogic philosophy, with the purpose of better understanding and validating the tradition. 
