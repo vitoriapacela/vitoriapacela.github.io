@@ -17,3 +17,4 @@ I am available for on-demand teaching, as well as leading yoga and meditation cl
 
 ## Research
 On a research note, I'm interested in studying consciousness and working on the computational and mathematical fundamentals of yogic philosophy, with the purpose of better understanding and validating the tradition. 
+I believe that the conscious experience is there to guide our evolution and, in doing so, bring more love and harmony to the world.
