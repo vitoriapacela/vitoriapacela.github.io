@@ -6,6 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+* Towards Out-of-Distribution Generalization via Disentangled Representations. **BIRS [Workshop](https://www.birs.ca/events/2026/5-day-workshops/26w5622) on Identifiable Representation Learning**. October 2026, Banff, Canada.
+
 * Workshop on Variational Autoencoders. [**Bayes Plurinacional**](https://bayesplurinacional.org/en/2025/disertantes.html). October 2025, Bogotá, Colombia.
 
 * Quantized Disentanglement: theory and practice.
